@@ -2,6 +2,8 @@
 
 <h2 align="center" dir="auto">Welcome to my world!</h2>
 
+![](https://komarev.com/ghpvc/?username=oxiran&color=blueviolet)
+
 <!--
 **oxiran/oxiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
